@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# build folders
+dist/
+build/
+
+# uploaded/generated files
+uploads/
+
+# editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
